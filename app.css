@@ -1,0 +1,61 @@
+body{
+  background-color: aquamarine;
+  width: auto;
+ height: auto;
+}
+
+#logo{
+  width: 150px;
+  height: 150px;
+
+}
+.detail{
+
+text-align: right;
+padding-right: 100px;
+}
+span.name{
+ color:red;
+ 
+ 
+
+}
+#regjistrimi{
+    text-align:center;
+    margin-right: auto;
+    margin-left: auto;
+    width: 200px; 
+    height: 200px; 
+    background-color: #0099CC; 
+    margin-top: 30px;
+    border-radius: 25px;
+  
+    
+    
+}
+fieldset{
+ border-style: hidden;
+
+
+}
+input{
+
+  border-radius: 25px;
+  margin-top: 5px;
+}
+#regjistrimi input.login{
+  margin-top: 10px;
+     background-color: #33CC66;
+     border-radius: 25px;
+
+}
+#linku{
+  margin-top: 200px;
+text-align: center;
+ font-weight: bold;
+}
+#linku .CP{
+   width: 30px;
+   height: 30px;
+
+}
